@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+dist
+.env
+.env.local
+data/imports/*.csv
+*.log
+.DS_Store
+coverage
+drizzle/meta
+.turbo
+next-env.d.ts
+!next-env.d.ts

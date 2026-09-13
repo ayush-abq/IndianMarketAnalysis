@@ -1,0 +1,8 @@
+# Optional boosting stack. The TypeScript engine trains without these.
+# pip install -r python/ml/requirements.txt
+xgboost>=2.0.0
+lightgbm>=4.0.0
+catboost>=1.2
+scikit-learn>=1.4
+pandas>=2.1
+numpy>=1.26
